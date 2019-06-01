@@ -109,7 +109,7 @@ class App extends Component {
               </button>
             </div>
             <div className="App">
-              <p>Calculated Distance is : {this.state.calculatedDistance}</p>
+              <p>Calculated Distance is : {this.state.calculatedDistance} Km</p>
             </div>
           </form>
         </header>
