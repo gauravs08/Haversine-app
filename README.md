@@ -45,3 +45,9 @@ npm run dtest
 The React application will run on port 3000 and the server port 3001.
 
 ## Demo
+
+![Haversine](http://g.recordit.co/opnBhlF3jw.gif)
+
+## Test
+
+![Alt text](/test/test.png?raw=true "Title")
